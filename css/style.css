@@ -64,6 +64,14 @@ body {
 	display: block;
 }
 
+.player-name {
+	width: 70%;
+}
+
+.timer {
+	width: 105px;
+}
+
 .results-title {
 	font-size: 30px;
 }
