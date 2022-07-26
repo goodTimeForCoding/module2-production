@@ -60,7 +60,12 @@ body {
 	display: block;
 }
 
-.form-wrap {
+.player-name-wrap {
+	display: block;
+	margin-bottom: 5px;
+}
+
+.timer-wrap {
 	display: block;
 }
 
